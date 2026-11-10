@@ -4,7 +4,7 @@
 
 ## About
 
-Cyan Eclipse Technologies LLC is a software company based in Tallahassee, Florida, founded in 2024. We are an SBA VetCert-certified Veteran-Owned Small Business (VOSB).
+Cyan Eclipse Technologies LLC is a software company founded in 2024. We are an SBA VetCert-certified Veteran-Owned Small Business (VOSB).
 
 Our work covers three areas:
 
