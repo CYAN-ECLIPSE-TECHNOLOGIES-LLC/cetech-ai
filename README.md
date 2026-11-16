@@ -4,7 +4,7 @@
 
 ## About
 
-Cyan Eclipse Technologies LLC is a software company founded in 2024. We are an SBA VetCert-certified Veteran-Owned Small Business (VOSB).
+Cyan Eclipse Technologies LLC is a software company founded in 2024.
 
 Our work covers three areas:
 
@@ -39,4 +39,4 @@ Our work covers three areas:
 
 ---
 
-<sub>Cyan Eclipse Technologies LLC · Veteran-Owned Small Business</sub>
+<sub>Cyan Eclipse Technologies LLC</sub>
